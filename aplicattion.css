@@ -1,0 +1,22 @@
+
+
+body {
+    background:green;
+    font-family: italic;
+    .center float:none; display:block; margin-left:auto; margin-right:auto; width: 50%;
+    margin: auto;
+    color: white;
+}
+
+p {
+    text-align: center;
+    font-size: 18px
+}
+
+em strong {
+
+}
+h1{
+    text-align: center;
+
+    color:black
